@@ -3,7 +3,7 @@
 // kratin_Final_Project
 // Hey ! This is the kind of project code related to Health. By Suraj Rambhade
 
-package com.company;
+package .com.company;
 
 import java.util.Scanner;
 
